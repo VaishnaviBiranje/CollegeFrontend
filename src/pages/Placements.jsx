@@ -30,44 +30,44 @@ const Placements = () => {
   ];
 
   // Student cards — use square, high-res images in public/student/
-  const students = [
-    {
-      name: "Priya Patil",
-      company: "TCS",
-      image: "/student/stu4.avif",
-      quote: "The training and guidance from faculty helped me crack my dream company.",
-    },
-    {
-      name: "Rohit Deshmukh",
-      company: "Infosys",
-      image: "/student/stu4.avif",
-      quote: "Practical learning and placement sessions were really helpful.",
-    },
-    {
-      name: "Sneha Joshi",
-      company: "Wipro",
-      image: "/student/stu4.avif",
-      quote: "DYPCOE provided me the platform to explore my potential and succeed.",
-    },
-    {
-      name: "Anamika Dakre",
-      company: "Adobe",
-      image: "/student/stu4.avif",
-      quote: "Hard work and proper guidance is key to success.",
-    },
-    {
-      name: "Rahul Patil",
-      company: "Capgemini",
-      image: "/student/stu4.avif",
-      quote: "Great mentors and a collaborative environment helped me grow.",
-    },
-    {
-      name: "Snehal Deshmukh",
-      company: "Cognizant",
-      image: "/student/stu4.avif",
-      quote: "The project-based learning prepared me for real interviews.",
-    },
-  ];
+  // const students = [
+  //   {
+  //     name: "Priya Patil",
+  //     company: "TCS",
+  //     image: "/student/stu4.avif",
+  //     quote: "The training and guidance from faculty helped me crack my dream company.",
+  //   },
+  //   {
+  //     name: "Rohit Deshmukh",
+  //     company: "Infosys",
+  //     image: "/student/stu4.avif",
+  //     quote: "Practical learning and placement sessions were really helpful.",
+  //   },
+  //   {
+  //     name: "Sneha Joshi",
+  //     company: "Wipro",
+  //     image: "/student/stu4.avif",
+  //     quote: "DYPCOE provided me the platform to explore my potential and succeed.",
+  //   },
+  //   {
+  //     name: "Anamika Dakre",
+  //     company: "Adobe",
+  //     image: "/student/stu4.avif",
+  //     quote: "Hard work and proper guidance is key to success.",
+  //   },
+  //   {
+  //     name: "Rahul Patil",
+  //     company: "Capgemini",
+  //     image: "/student/stu4.avif",
+  //     quote: "Great mentors and a collaborative environment helped me grow.",
+  //   },
+  //   {
+  //     name: "Snehal Deshmukh",
+  //     company: "Cognizant",
+  //     image: "/student/stu4.avif",
+  //     quote: "The project-based learning prepared me for real interviews.",
+  //   },
+  // ];
 
   return (
     <Box sx={{ py: 8, backgroundColor: "#f9fafb" }}>
